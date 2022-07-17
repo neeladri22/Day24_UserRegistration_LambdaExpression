@@ -14,9 +14,6 @@ namespace LambdaFunctionValidation
             Console.WriteLine("Welcome to User Registration Using Lambda Expression");
 
 
-            LambdaExpression lambdaExpression = new LambdaExpression();
-            lambdaExpression.Validate();
-
         }
     }
 }
